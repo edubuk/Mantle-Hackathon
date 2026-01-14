@@ -3,7 +3,7 @@ Edubuk is an AI and Blockchain-powered platform designed to tackle the global is
 By leveraging blockchain technology, Edubuk provides a secure, cost-effective, and instant verification system for academic credentials.
 
 ## Check out demo video : 
-``` https://drive.google.com/file/d/1NjVjP3ucczcu6RgJuCW4xGy4SskpNbYY/view?usp=sharing```
+``` https://drive.google.com/file/d/1PSC2yXDr0ds4iAZ3cPJHX8G_57FfJh5G/view?usp=drivesdk```
 
 ## Contract Address 
 ``` 0x9c473c9FcbA5D0aB2DbECdBaD8430936c8d8B293 ```
